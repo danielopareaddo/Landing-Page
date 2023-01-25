@@ -43,10 +43,6 @@ h1, h2, h3, h4, h5, h6{
   background-color: #e5e8e8;
 }
 
-/* Container */
-
-/* Buttons*/
-
 /* Intro Section */
 .intro {
   color: #fff;
@@ -59,7 +55,7 @@ h1, h2, h3, h4, h5, h6{
   width: 700px;
 }
 
-.introTitle{
+.introTitle {
   padding-top: 35px;
   text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
   font-size: 5rem;
@@ -226,6 +222,9 @@ footer {
 
     .footerCol1{
       margin-left: 0px;
+    }
+    .navToggler{
+      margin-right: 10px;
     }
 
 }
