@@ -53,6 +53,7 @@ h1, h2, h3, h4, h5, h6{
 
 .introContainer{
   width: 700px;
+  text-align: center;
 }
 
 .introTitle {
@@ -208,6 +209,10 @@ footer {
     .introContainer{
       width: auto;
     }
+    .btnContainer{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
     .stockSection,
     .stockDiv1,
     .stockDiv2,
@@ -224,8 +229,12 @@ footer {
       margin-left: 0px;
     }
     .navToggler{
-      margin-right: 55px;
-      margin-left: -50px;
+      margin-right: auto;
+      margin-left: auto;
+    }
+    .yasMargin{
+      margin-right: auto;
+      margin-left: auto;
     }
 
 }
@@ -234,7 +243,8 @@ footer {
 .introBtn1,
 .introBtn2,
 .introBtn3{
-  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
   margin-top: 10px;
 }
 
